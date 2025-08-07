@@ -4,7 +4,7 @@ import { getDatabase } from "firebase/database";
 
 // Replace with your own config from Firebase Console
 const firebaseConfig = {
-    apiKey: "AIzaSyBJfUoGXnnLsLk6B1Ti2EVUm3-zghEOVBE",
+    apiKey: ,
     authDomain: "redesign-weight.firebaseapp.com",
     databaseURL: "https://redesign-weight-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "redesign-weight",
